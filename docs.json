@@ -21,14 +21,6 @@
               "quickstart",
               "development"
             ]
-          },
-          {
-            "group": "Commands",
-            "pages": [
-              "commands/giveaway",
-              "commands/presets",
-              "commands/moderation"
-            ]
           }
         ]
       }
